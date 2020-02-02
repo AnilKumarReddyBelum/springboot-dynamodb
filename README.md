@@ -1,2 +1,2 @@
-# springboot-dynamodb
-Integrate Spring boot with amazon dynamo db
+# SpringBoot-Amazon DynamoDB
+Integrate Spring boot with Amazon DynamoDB
